@@ -1,2 +1,2 @@
 # dream-dress
-Dream Dress é um site para encontrar o vestido de noiva perfeito para o grande dia!
+Dream Dress é um site sobre vestidos de noiva desenvolvido com Bootstrap.
