@@ -1,5 +1,10 @@
 * {
     font-family: 'Poppins', sans-serif;
+    color: #595656;
+}
+
+img {
+    max-width: 100%;
 }
 
 li {
@@ -23,9 +28,24 @@ li {
     height: 700px;
 }
 
+.title {
+    font-size: 2rem;
+}
+
+.subtitle {
+    font-size: 3rem;
+}
+
+.description {
+    font-size: 1rem;
+}
+
+.divider {
+    margin: 4rem 0;
+}
+
 .footer {
-    background-color: #BF9F9F;
-    color: #FFF;
+    background-color: #F2D9D0;
 }
 
 .footer li:not(:first-child) {
