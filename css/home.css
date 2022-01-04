@@ -28,7 +28,7 @@ li {
 /* Carrossel */
 .carousel-images img {
     width: 100%;
-    height: 680px;
+    max-height: 680px;
 }
 
 /* Conteúdo */
