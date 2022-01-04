@@ -27,3 +27,8 @@ Landing Page responsiva de apresentação para uma loja fictícia sobre estilos 
     <img src="readme/dream-dress-tablet.png" alt="Site Dream Dress tablet" width="300px"/>
     <img src="readme/dream-dress-desktop.png" alt="Site Dream Dress desktop" width="800px"/>
 </div>
+
+# Créditos
+- Imagens obtidas em: https://unsplash.com/s/photos/wedding-dress
+- ícones obtidos em: https://feathericons.com/
+- Logo criada em: https://www.canva.com/pt_br/
