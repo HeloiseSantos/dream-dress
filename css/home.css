@@ -2,6 +2,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+li {
+    list-style: none;
+}
+
 .menu-nav {
     background-color: #F2DFCE;
 }
@@ -17,4 +21,17 @@
 .carousel-images img {
     width: 100%;
     height: 700px;
+}
+
+.footer {
+    background-color: #BF9F9F;
+    color: #FFF;
+}
+
+.footer li:not(:first-child) {
+    margin-left: 20px;
+}
+
+.footer li img:hover {
+    transform: scale(1.1);
 }
