@@ -1,0 +1,62 @@
+/* Geral */
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #595656;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+/* Menu */
+.menu-nav {
+    background-color: #F2DFCE;
+}
+
+.logo {
+    width: 200px;
+}
+
+.nav-itens.show {
+    padding: 10px 0 0;
+}
+
+/* Carrossel */
+.carousel-images img {
+    width: 100%;
+    max-height: 680px;
+}
+
+/* Conteúdo */
+.title {
+    font-size: 2rem;
+}
+
+.subtitle {
+    font-size: 3rem;
+}
+
+.description {
+    font-size: 1rem;
+}
+
+.divider {
+    margin: 3rem 0;
+}
+
+/* Footer */
+.footer {
+    background-color: #F2D9D0;
+}
+
+.footer li:not(:first-child) {
+    margin-left: 20px;
+}
+
+.footer li img:hover {
+    transform: scale(1.1);
+}
